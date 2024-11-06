@@ -19,18 +19,27 @@ li{
 display: flex;
 flex-wrap: wrap;
 }
+
+.ligne{
+    display: inline-block;
+  }
+
 .spaceBetween{
     justify-content: space-between;
 }
+
 .alignCenter{
     align-items: center;
 }
+
 .bold {
     font-weight: 600;
 }
+
 .bgYellow{
     background-color: #F3CB27;
 }
+
 .container{
     /* background-color: #c52626; */
     max-width: 1000px;
@@ -47,8 +56,23 @@ flex-wrap: wrap;
 }
 h3{
     width: 100%;
+    color: #593E26;
+    margin-bottom: 10px;
 }
+.Engagement{
+    height: 50vh;
+}
+.width30{
+    width: 30%;
+ }
 
+ .width100{
+    width: 100%;
+ }
+
+ .marginauto{
+    margin: auto;
+ }
 /* HEADER*/
 header{
     /*background-color: aquamarine;*/
@@ -74,12 +98,41 @@ header{
 h1{
     font-size: 32px;
 }
+
+
 /*Section Engagement*/
 
-h3{
-    width: 100%;
-}
 
-.engagement{
-    width: 50%;
-    }
+
+ .pinline{
+    width: 45%;
+ }
+ 
+ /* Section Bienfait du miel */
+
+
+
+
+ /* Section Produits*/
+
+ .produits{
+    height: 643px;
+ }
+
+ .widthcartes{
+    width: 267px;
+ }
+ .panierbutton{
+    font-size: 18px;
+    color: white;
+ }
+ 
+ .padingcarte{
+ padding: 10px 9px 20px 9px;
+ }
+
+ .radiusCarte{
+    border-radius: 4px;
+ }
+
+ /*Section 5*/
