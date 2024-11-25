@@ -100,15 +100,15 @@ p{
  }
  
  
-/* HEADER*/
-header{
-    /*background-color: aquamarine;*/
-    padding: 15px 15px;
-}
-.navHeader{
-    /*background-color: chartreuse;*/
-    width: 50%;
-}
+    /* HEADER*/
+    header{
+        /*background-color: aquamarine;*/
+        padding: 15px 15px;
+    }
+    .navHeader{
+        /*background-color: chartreuse;*/
+        width: 50%;
+    }
 .panier{
     color: #F3CB27;
     font-size: 25px;
